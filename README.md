@@ -1,2 +1,2 @@
 # CV
-this is the first virsion of my cu using thml
+this is the first version of my CV using HTML
